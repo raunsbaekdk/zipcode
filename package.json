@@ -1,0 +1,22 @@
+{
+  "name": "zipcode",
+  "version": "1.1.0",
+  "description": "zipcode",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "csv-parse": "^1.0.0",
+    "express": "^4.13.3",
+    "node-cache": "^1.1.0",
+    "request": "^2.61.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raunsbaekdk/zipcode.git"
+  },
+  "author": "Mike Raunsbæk",
+  "license": "ISC"
+}
